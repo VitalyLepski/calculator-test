@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-15T06:47:47" hostname="DESKTOP-5GSO184" time="0.035">
+<testsuite name="MainTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-12-15T07:59:34" hostname="DESKTOP-5GSO184" time="0.033">
   <properties/>
-  <testcase name="additional()" classname="MainTest" time="0.035"/>
+  <testcase name="additional()" classname="MainTest" time="0.024"/>
+  <testcase name="division()" classname="MainTest" time="0.002"/>
+  <testcase name="multiplication()" classname="MainTest" time="0.002"/>
+  <testcase name="difference()" classname="MainTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
